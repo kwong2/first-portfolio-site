@@ -1,0 +1,87 @@
+* {
+  font-family: helvetica;
+}
+
+body {
+  background-color: #EDC9AF;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+.About {
+  text-align: center;
+}
+
+.Content {
+  text-align: center;
+  color: blue;
+}
+
+.Projects {
+  border: 1px solid black;
+}
+
+.fa {
+  font-size: 2em;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  color: black;
+}
+
+.fa:hover {
+  color: black;
+}
+
+p {
+  text-align: center;
+}
+
+nav {
+  background-color: powderblue;
+  border-radius: 3%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+li {
+  display: inline;
+  text-align: center;
+  text-decoration: none;
+}
+
+.logo {
+  display: block;
+  margin: auto;
+  width: 20%;
+}
+
+#Profile {
+  /*max-width: 15.1em;
+  height: 15.1em;
+  text-align: center;*/
+  display: block;
+  margin: auto;
+  width: 70%;
+  border-radius: 50%;
+}
